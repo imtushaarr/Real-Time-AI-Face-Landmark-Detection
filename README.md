@@ -49,6 +49,7 @@ This will start the application on http://localhost:3000 by default.
 ## Known Issues
 
 •	Browser Compatibility: The application is optimized for modern browsers with support for WebGL and TensorFlow.js.
+
 •	Performance: Real-time detection performance may vary based on the device and browser.
 
 ## Contributing
