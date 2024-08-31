@@ -4,6 +4,8 @@
 
 The **Real-Time AI Face Landmark Detection** project demonstrates real-time facial landmark detection using TensorFlow.js and React. This project utilizes TensorFlow.js's FaceMesh model to identify and visualize facial landmarks in a live video stream from a webcam. The application is built using React and leverages the `react-webcam` library for video capture.
 
+![WhatsApp Image 2024-09-01 at 02 06 09](https://github.com/user-attachments/assets/653eed91-9946-4c58-a1f1-38a0fd65be19)
+
 ## Features
 
 - **Real-Time Face Detection:** Uses TensorFlow.js FaceMesh model to detect facial landmarks in real-time.
