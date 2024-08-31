@@ -47,8 +47,12 @@ This will start the application on http://localhost:3000 by default.
 
 ## Screenshots & Video 
 
-https://github.com/user-attachments/assets/cbb2aa6e-0afd-4cf3-a8ad-efdca22160d5
 <img width="612" alt="Screenshot 2024-09-01 at 01 35 34" src="https://github.com/user-attachments/assets/167c648c-b5f6-4dc8-b71a-9d69abbc7e40">
+
+
+https://github.com/user-attachments/assets/86e385c9-b807-4b50-8b95-3959e96178d9
+
+
 
 ## Known Issues
 
