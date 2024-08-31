@@ -6,6 +6,10 @@ The **Real-Time AI Face Landmark Detection** project demonstrates real-time faci
 
 ![WhatsApp Image 2024-09-01 at 02 06 09](https://github.com/user-attachments/assets/653eed91-9946-4c58-a1f1-38a0fd65be19)
 
+
+https://github.com/user-attachments/assets/cbb2aa6e-0afd-4cf3-a8ad-efdca22160d5
+
+
 ## Features
 
 - **Real-Time Face Detection:** Uses TensorFlow.js FaceMesh model to detect facial landmarks in real-time.
@@ -45,7 +49,7 @@ This will start the application on http://localhost:3000 by default.
 3.	The application will request permission to access your webcam.
 4.	Once permission is granted, you will see the live video feed with facial landmarks and mesh drawn on it in real-time.
 
-## Screenshots
+## Screenshots & Video 
 <img width="612" alt="Screenshot 2024-09-01 at 01 35 34" src="https://github.com/user-attachments/assets/167c648c-b5f6-4dc8-b71a-9d69abbc7e40">
 
 ## Known Issues
