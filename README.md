@@ -61,7 +61,9 @@ Contributions are welcome! If you have suggestions, bug reports, or feature requ
 For any questions or inquiries, you can reach out to:
 
 •	Email: tusharguptagps@gmail.com
+
 •	LinkedIn: [Link](https://linkedin.com/in/imtushaarr)
+
 •	Portfolio: [Link](https://tushar-gupta-portfolio.vercel.app/)
 
 ## License 
