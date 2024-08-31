@@ -2655,19 +2655,22 @@ const drawPath = (ctx, points) => {
 
 export const drawMesh = (Predictions, ctx) => {
     if (Predictions.length > 0) {
+        // Use keypoints from the first prediction for drawing triangles
+        const keypoints = Predictions[0].scaledMesh;
+
         // Draw triangles
-        for(let i = 0; i < TRIANGULATION.length / 3; i++){
+        for (let i = 0; i < TRIANGULATION.length / 3; i++) {
             const points = [
                 TRIANGULATION[i * 3],
                 TRIANGULATION[i * 3 + 1],
                 TRIANGULATION[i * 3 + 2],
-            ].map(index => keypoints[index]);
+            ].map(index => keypoints[index]); // Ensure keypoints is defined here
             drawPath(ctx, points, true);
         }
 
         // Draw the face mesh
         Predictions.forEach(prediction => {
-            const keypoints = prediction.scaledMesh;
+            const keypoints = prediction.scaledMesh; // Define keypoints for each prediction
 
             for (let i = 0; i < keypoints.length; i++) {
                 const x = keypoints[i][0];
